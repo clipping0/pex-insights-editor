@@ -1,0 +1,6 @@
+{
+  "appId": "com.pex.insightseditor",
+  "appName": "Pex Insights Editor",
+  "webDir": "apps/web/dist",
+  "server": { "androidScheme": "https" }
+}
